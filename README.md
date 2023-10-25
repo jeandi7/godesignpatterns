@@ -1,7 +1,7 @@
 # goDesignPatterns
 
 jeux de tests en go sur les designs patterns.
-for the fun
+for the fun car golang n'est pas vraiment oriente objet 
 
 
 ![image info](./ADR/DPO.png)
