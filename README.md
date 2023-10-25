@@ -1,8 +1,8 @@
 # goDesignPatterns
 
 jeux de tests en go sur les designs patterns.
+for the fun
 
-voir le cours Oodrive : Concevoir avec les Designs Patterns.
 
 ![image info](./ADR/DPO.png)
 

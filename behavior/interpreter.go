@@ -1,5 +1,7 @@
 package behavior
 
+// ma calculatrice HP25...enfin presque
+
 const (
 	SUM = "+"
 	SUB = "-"
