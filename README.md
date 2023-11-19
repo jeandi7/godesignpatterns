@@ -1,8 +1,12 @@
 # goDesignPatterns
 
-jeux de tests en go sur les designs patterns.
-for the fun car golang n'est pas vraiment oriente objet 
+jeux de tests en go sur les designs patterns objets.
 
+for the fun car golang n'est pas vraiment oriente objet.
+
+les designs patterns objets sous sous les repertoires behavior, creational, structural.
+
+et jeux de tests en go sur les design patterns fonctionnels
 
 ![image info](./ADR/DPO.png)
 
